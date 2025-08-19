@@ -3,7 +3,6 @@
 🎯 **Stack principal:** JavaScript • React Native • C# (Windows Forms) • PHP • HTML • CSS  
 🗄️ **Bases de dados:** Supabase • SQL Server  
 📚 **Formação:** Concluí o curso profissional de **Gestão e Programação de Equipamento Informático** na Escola Digital  
-💻 **Agora:** a evoluir o projeto **SportDon** (PAP) e a aprender mais sobre CI/CD  
 📫 **Contacto:** <email> • [LinkedIn](https://linkedin.com/in/SEULINK)
 
 ---
