@@ -19,6 +19,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Rios&show_icons=true&theme=dracula)
 
 
+---
+
 
 ## ⚡ Tecnologias & Ferramentas
 
@@ -33,7 +35,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
----
+
 
 ## 🐍 Contribuições animadas
 
