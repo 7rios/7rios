@@ -3,15 +3,15 @@
 🎯 **Stack principal:** JavaScript • React Native • C# (Windows Forms) • PHP • HTML • CSS  
 🗄️ **Bases de dados:** Supabase • SQL Server  
 📚 **Interesses:** Desenvolvimento web e mobile, UX e automação  
-💻 **Agora:** a evoluir o projeto SportDon (PAP) e a aprender mais sobre CI/CD  
+💻 **Agora:** a evoluir o projeto **SportDon** (PAP) e a aprender mais sobre CI/CD  
 📫 **Contacto:** <email> • [LinkedIn](https://linkedin.com/in/SEULINK)
 
 ---
 
 ## 🚀 Projeto em destaque
 
-- [**SportDon**](https://github.com/7Rios/SportDon) — Aplicação desenvolvida para a PAP, focada na gestão de eventos desportivos e interação com utilizadores.  
-  _Stack_: React Native + Supabase + SQL Server + PHP (backend)
+- [**SportDon**](https://github.com/7Rios/SportDon) — Aplicação mobile desenvolvida em React Native com backend em Supabase.  
+  _Stack_: React Native (frontend) + Supabase (backend) + SQL Server
 
 ---
 
@@ -19,12 +19,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Rios&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Rios&layout=compact&theme=dracula)
-
----
-
-## 🏆 Troféus / Conquistas
-
-![Troféus](https://github-profile-trophy.vercel.app/?username=7Rios&theme=darkhub&row=1&no-frame=true)
 
 ---
 
