@@ -18,13 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Rios&show_icons=true&theme=dracula)
 
----
 
-## 🐍 Contribuições animadas
-
-![Snake animation](https://raw.githubusercontent.com/7Rios/7Rios/output/snake.svg)
-
----
 
 ## ⚡ Tecnologias & Ferramentas
 
@@ -37,6 +31,13 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+---
+
+## 🐍 Contribuições animadas
+
+![Snake animation](https://raw.githubusercontent.com/7Rios/7Rios/output/snake.svg)
 
 ---
 
