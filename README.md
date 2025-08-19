@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o João Rios
+# 👋 Olá! Eu sou o Tomás Rios
 
 🎯 **Stack principal:** JavaScript • React Native • C# (Windows Forms) • PHP • HTML • CSS  
 🗄️ **Bases de dados:** Supabase • SQL Server  
-📚 **Interesses:** Desenvolvimento web e mobile, UX e automação  
+📚 **Formação:** Concluí o curso profissional de **Gestão e Programação de Equipamento Informático** na Escola Digital  
 💻 **Agora:** a evoluir o projeto **SportDon** (PAP) e a aprender mais sobre CI/CD  
 📫 **Contacto:** <email> • [LinkedIn](https://linkedin.com/in/SEULINK)
 
@@ -17,8 +17,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Rios&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Rios&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Rios&show_icons=true&theme=dracula)
 
 ---
 
@@ -39,12 +38,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📌 Última atividade
-<!--ACTIVITY:START-->
-<!--ACTIVITY:END-->
 
 ---
 
