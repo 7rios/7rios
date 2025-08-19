@@ -3,14 +3,14 @@
 🎯 **Stack principal:** JavaScript • React Native • C# (Windows Forms) • PHP • HTML • CSS  
 🗄️ **Bases de dados:** Supabase • SQL Server  
 📚 **Formação:** Concluí o curso profissional de **Gestão e Programação de Equipamento Informático** na Escola Digital  
-📫 **Contacto:** <email> • [LinkedIn](https://linkedin.com/in/SEULINK)
+📫 **Contacto:** <Tomasrios2005@hotmail.com> •
 
 ---
 
 ## 🚀 Projeto em destaque
 
 - [**SportDon**](https://github.com/7Rios/SportDon) — Aplicação mobile desenvolvida em React Native com backend em Supabase.  
-  _Stack_: React Native (frontend) + Supabase (backend) + SQL Server
+  _Stack_: React Native (frontend) + Supabase (backend) 
 
 ---
 
