@@ -1,17 +1,17 @@
 # 👋 Olá! Eu sou o <SEU NOME>
 
-🎯 **Stack principal:** React • Node.js • PostgreSQL  
-📚 **Interesses:** Desenvolvimento web, APIs escaláveis, automação e DevOps  
-💻 **Agora:** a aprender mais sobre CI/CD e boas práticas de testes  
-📫 **Contacto:** <email> • [LinkedIn](https://linkedin.com/in/SEULINK) • [Portfólio](https://SEUSITE.com)
+🎯 **Stack principal:** JavaScript • React Native • C# (Windows Forms) • PHP • HTML • CSS  
+🗄️ **Bases de dados:** Supabase • SQL Server  
+📚 **Interesses:** Desenvolvimento web e mobile, UX e automação  
+💻 **Agora:** a evoluir o projeto SportDon e a aprender mais sobre CI/CD  
+📫 **Contacto:** <email> • [LinkedIn](https://linkedin.com/in/SEULINK)
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
-- [**Projeto A**](https://github.com/<username>/projeto-a) — Aplicação full-stack (React + Node) com deploy em produção  
-- [**Projeto B**](https://github.com/<username>/projeto-b) — Biblioteca NPM/PyPI com 100+ downloads  
-- [**Projeto C**](https://github.com/<username>/projeto-c) — API em FastAPI com autenticação JWT e testes automatizados  
+- [**SportDon**](https://github.com/<username>/SportDon) — Aplicação focada em <breve descrição do propósito do projeto>.  
+  _Stack_: React Native + Supabase + SQL Server + PHP (backend)
 
 ---
 
@@ -36,10 +36,14 @@
 
 ## ⚡ Tecnologias & Ferramentas
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
