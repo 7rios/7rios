@@ -3,7 +3,7 @@
 🎯 **Stack principal:** JavaScript • React Native • C# (Windows Forms) • PHP • HTML • CSS  
 🗄️ **Bases de dados:** Supabase • SQL Server  
 📚 **Formação:** Concluí o curso profissional de **Gestão e Programação de Equipamento Informático** na Escola Digital  
-📫 **Contacto:** <Tomasrios2005@hotmail.com> •
+📫 **Contacto:** <Tomasrios2005@hotmail.com> 
 
 ---
 
