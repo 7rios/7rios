@@ -37,10 +37,4 @@
 ---
 
 
-## 🐍 Contribuições animadas
-
-![Snake animation](https://raw.githubusercontent.com/7Rios/7Rios/output/snake.svg)
-
----
-
 ✨ _Obrigado por visitares o meu perfil!_ 🚀
